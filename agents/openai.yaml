@@ -1,0 +1,5 @@
+interface:
+  display_name: "Visual Reference RAG"
+  short_description: "Retrieve grounded visual references for image generation"
+  default_prompt: "Use $visual-reference-rag to analyze this project reference library, retrieve complementary images, and prepare a grounded image-generation run."
+
