@@ -1,5 +1,7 @@
 # Visual Reference RAG
 
+**English** | [简体中文](README.zh-CN.md)
+
 A project-scoped visual RAG workflow for turning temporary moodboards into grounded, traceable image-generation context.
 
 Visual Reference RAG is a reusable Codex Skill for designers who build a different reference library for every project. Instead of treating all collected images as one permanent knowledge base, it catalogs each project's references, retrieves a small complementary set, converts the selection into a structured Style Spec, and records the generation run.
